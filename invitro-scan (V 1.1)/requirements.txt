@@ -1,0 +1,13 @@
+Flask>=2.0
+Flask-Cors
+qrcode[pil]
+Pillow
+reportlab
+requests
+opencv-python
+pyzbar
+simpleaudio
+pandas
+numpy
+pywebview
+pyinstaller
